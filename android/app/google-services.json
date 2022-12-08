@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "735623157420",
+    "project_id": "ig-application-79bac",
+    "storage_bucket": "ig-application-79bac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735623157420:android:9657b28bdf75f831477109",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_ig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735623157420-4mfavu9qb0ei5fgef9m0t873auciv3mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi2olgP3UH-J0Y-kIpAuW5IsAyMWuYW1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735623157420-4mfavu9qb0ei5fgef9m0t873auciv3mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
