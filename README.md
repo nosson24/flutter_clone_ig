@@ -1,16 +1,35 @@
 # flutter_application_ig
 
-A new Flutter project.
+> ## **Flutter Clone Application IG** 
+---
+> ## **ฐานข้อมูล**
 
-## Getting Started
+- `Firebase database`
 
-This project is a starting point for a Flutter application.
+---
+> ## **with Package**
+---
+- `flutter_bloc`
+- `firebase_core`
+- `cloud_firestore`
+- `equatable`
 
-A few resources to get you started if this is your first Flutter project:
+---
+> ### _การทำงานของแอปพลิเคชัน_ 
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+     - การ API จากข้อมูล Firebase Database มาแสดง
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+       
+<!-- ---
+> ### _รูปลักษณ์ภายในแอปพลิเคชัน_
+---
+- [1] หน้าจอแสดงข้อมูล `จะทำการลบเมื่อกดปุ่ม` _Done_ 
+<img src="assets/get_list.png" width = "300">
+---
+- [2] หน้าจอเพิ่มข้อมูล
+<img src="assets/add_list.png" width = "300">
+---
+- [3] หน้าจอแก้ไขข้อมูล
+<img src="assets/edit_list.png" width = "300">
+--- -->
